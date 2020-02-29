@@ -1,1 +1,3 @@
-ks-grechko.github.io/ks-grechko.github.io
+https://ks-grechko.github.io/
+
+v0.0.5
